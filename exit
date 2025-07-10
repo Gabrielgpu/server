@@ -1,0 +1,17 @@
+[33mcommit e8289c6fa374834b513929ccce164dd285b23d09[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Gabriel <gabriel_gpu@outlook.com>
+Date:   Wed Jul 9 20:01:10 2025 -0300
+
+    docs: add readme
+
+[33mcommit 3623bad02c4562919e0cf09b958627703a947cdb[m
+Author: Gabriel <gabriel_gpu@outlook.com>
+Date:   Wed Jul 9 13:10:40 2025 -0300
+
+    docs: create rest client http file
+
+[33mcommit 45b9081feecd387f528e84f8e7adde8f22727c34[m
+Author: Gabriel <gabriel_gpu@outlook.com>
+Date:   Wed Jul 9 13:03:49 2025 -0300
+
+    feat: add rooms listing
