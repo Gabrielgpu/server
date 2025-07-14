@@ -15,6 +15,13 @@
       "when": 1752148092253,
       "tag": "0001_spicy_exiles",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752453437596,
+      "tag": "0002_flimsy_garia",
+      "breakpoints": true
     }
   ]
 }
